@@ -43,5 +43,5 @@ it('should not allow a voter to register themself', async () => {
     });
 ```
 
-### ***`total number of tests: 30`***
+***`total number of tests: 30`***
 
